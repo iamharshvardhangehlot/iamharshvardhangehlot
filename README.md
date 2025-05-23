@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **my Data Analytics and Cloud Projects**
 
-- 🌱 I’m currently learning **Cloud containerized applications**
+- 🌱 learning **Cloud containerized applications**
 
 - 🤝 Deeply engaged in **cloud skills development through courses**
 
-- 📫 How to reach me **harsh.vg730@gmail.com**
+- 📫 How to reach me? **harsh.vg730@gmail.com**
 
 - ⚡ Fun fact **I once used my Analytics skills to predict my opponent's next move in Valorant (it worked like a charm... once).**
 
