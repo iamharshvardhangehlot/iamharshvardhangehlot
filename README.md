@@ -4,7 +4,7 @@
 
 - 🔭 **I’m currently working on:** Accelerating DevSecOps workflows using AI agents and vibecoding.
 
-- 🌱 **I’m currently learning:** Advanced vulnerability assessment and penetration testing (VAPT) methodologies on platforms like TryHackMe.
+- 🌱 **I’m currently learning:** Advanced vulnerability assessment and penetration testing (VAPT) methodologies, with a touch of Di-Fi.
 
 - 🏆 **Deeply engaged in:** Pushing my limits in offensive security, having recently earned a Medallion of Excellence in Cybersecurity at IndiaSkills 2024. 
 
