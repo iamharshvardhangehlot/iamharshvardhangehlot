@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Gehlot</h1>
-<h3 align="center">Learning to create DevOps symphonies with data, code, and cloud ☁️⚙️</h3>
+<h3 align="center">Learning to orchestrate Di-Fi security symphonies with contracts, AI, and good offensive intuitions ☁️⚙️</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpteXNsa3A3MGpvbjR2cDRpZG50NXU2djl2cHU2Nzl0amd1Y3M3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
+- 🔭 **I’m currently working on:** Accelerating DevSecOps workflows using AI agents and vibecoding.
 
-- 🔭 I’m currently working on **my Data Analytics and Cloud Projects**
+- 🌱 **I’m currently learning:** Advanced vulnerability assessment and penetration testing (VAPT) methodologies on platforms like TryHackMe.
 
-- 🌱 learning **Cloud containerized applications**
+- 🏆 **Deeply engaged in:** Pushing my limits in offensive security, having recently earned a Medallion of Excellence in Cybersecurity at IndiaSkills 2024. 
 
-- 🤝 Deeply engaged in **cloud skills development through courses**
+- 📫 **How to reach me:** harsh.vg730@gmail.com
 
-- 📫 How to reach me? **harsh.vg730@gmail.com**
-
-- ⚡ Fun fact **I once used my Analytics skills to predict my opponent's next move in Valorant (it worked like a charm... once).**
+- ⚡ **Fun fact:** When I'm not exploiting vulnerabilities or building production software, I'm probably hunting down rare 1:64 scale diecast cars, tuning my mechanical keyboards, or shooting ultra-realistic cinematic photography.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
